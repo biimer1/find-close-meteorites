@@ -7,4 +7,9 @@ ben is the coolest
 
 This project requires Python 3 and the requests package.
 
-`python find_meteors.py`
+First, install pipenv.  Then:
+
+```
+pipenvinstall
+pipenv run find_meteors.py
+```
